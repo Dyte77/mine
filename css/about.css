@@ -1,0 +1,33 @@
+
+header {
+background: black;
+height:700px;
+width: 1000px;
+margin-left: 400px
+ 
+
+}
+
+header .logo{
+    position: relative;
+    font-size: 30px;
+    text-decoration: none;
+    color: aqua;
+    font-weight: 600;
+boarder: red;
+}
+header ul{
+    position: relative;
+    display: flex;
+}
+header ul li{
+    list-style-type: none;
+}
+header ul li a{
+    display: inline-block;
+    color: white;
+    font-weight: 100;
+    margin-left: 10px;
+    text-decoration: none;
+}
+
